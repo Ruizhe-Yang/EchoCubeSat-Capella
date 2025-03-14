@@ -31,7 +31,7 @@
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_il1z0Ok6Ee-3374rGVaJ7g">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_jPGRkOlNEe-3374rGVaJ7g" name="[PAB] Structure" repPath="#_jPFDcOlNEe-3374rGVaJ7g" changeId="1741971874407">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_jPGRkOlNEe-3374rGVaJ7g" name="[PAB] Structure" repPath="#_jPFDcOlNEe-3374rGVaJ7g" changeId="1741983163299">
         <eAnnotations xmi:type="description:DAnnotation" uid="_jPHfs-lNEe-3374rGVaJ7g" source="https://www.polarsys.org/capella/dannotation/DesactivatedFilters">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jPHftOlNEe-3374rGVaJ7g" key="hide.computed.component.exchanges.filter" value="true"/>
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jPHftelNEe-3374rGVaJ7g" key="hide.computed.physical.links.filter" value="true"/>
@@ -7397,7 +7397,7 @@
           <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='PAB_PC']/@conditionnalStyles.0/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='PAB_PC']"/>
-        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_RIacMOlREe-3374rGVaJ7g" name="锂蓄电池组">
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_RIacMOlREe-3374rGVaJ7g" name="石墨烯电源">
           <target xmi:type="org.polarsys.capella.core.data.cs:Part" href="EchoCubeSat.capella#3905cc6a-caad-4c22-a3f3-721dd00c5cd9"/>
           <semanticElements xmi:type="org.polarsys.capella.core.data.cs:Part" href="EchoCubeSat.capella#3905cc6a-caad-4c22-a3f3-721dd00c5cd9"/>
           <semanticElements xmi:type="org.polarsys.capella.core.data.pa:PhysicalComponent" href="EchoCubeSat.capella#171946bd-a76f-440c-ba38-702aeb9cdd7e"/>

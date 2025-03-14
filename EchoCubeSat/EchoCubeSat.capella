@@ -4000,14 +4000,14 @@
                 id="214ebb65-dfac-473e-b7b0-a8bdd2672be8" name="能源系统" actor="true"
                 nature="NODE">
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="3905cc6a-caad-4c22-a3f3-721dd00c5cd9"
-                  name="锂蓄电池组" abstractType="#171946bd-a76f-440c-ba38-702aeb9cdd7e"/>
+                  name="石墨烯电源" abstractType="#171946bd-a76f-440c-ba38-702aeb9cdd7e"/>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="20e82dec-1dda-4ea6-8349-eb2086ca64c4"
                   name="折叠太阳翼" abstractType="#592af86b-7488-4bee-ae90-4048c90f8a4e"/>
               <ownedComponentRealizations xsi:type="org.polarsys.capella.core.data.cs:ComponentRealization"
                   id="24773d8c-1c99-4e01-9f24-e4c1e913e2f2" targetElement="#aea41bfe-a7bc-4c77-84ca-053d311591a1"
                   sourceElement="#214ebb65-dfac-473e-b7b0-a8bdd2672be8"/>
               <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
-                  id="171946bd-a76f-440c-ba38-702aeb9cdd7e" name="锂蓄电池组" actor="true"
+                  id="171946bd-a76f-440c-ba38-702aeb9cdd7e" name="石墨烯电源" actor="true"
                   nature="NODE">
                 <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
                     id="ac1f29e1-51c5-4614-b385-ee5d1f470ae9" targetElement="#a4fbe480-580e-4b30-8042-9555a9d6c329"
