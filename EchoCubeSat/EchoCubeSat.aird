@@ -11,7 +11,7 @@
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_il1z0Ok6Ee-3374rGVaJ7g">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_jPGRkOlNEe-3374rGVaJ7g" name="[PAB] Structure" repPath="#_jPFDcOlNEe-3374rGVaJ7g" changeId="1739375343997">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_jPGRkOlNEe-3374rGVaJ7g" name="[PAB] Structure" repPath="#_jPFDcOlNEe-3374rGVaJ7g" changeId="1741967381193">
         <eAnnotations xmi:type="description:DAnnotation" uid="_jPHfs-lNEe-3374rGVaJ7g" source="https://www.polarsys.org/capella/dannotation/DesactivatedFilters">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jPHftOlNEe-3374rGVaJ7g" key="hide.computed.component.exchanges.filter" value="true"/>
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jPHftelNEe-3374rGVaJ7g" key="hide.computed.physical.links.filter" value="true"/>
@@ -6001,7 +6001,7 @@
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_liFZIulTEe-3374rGVaJ7g"/>
                   </children>
                   <styles xmi:type="notation:ShapeStyle" xmi:id="_liEyEelTEe-3374rGVaJ7g" fontColor="3038217" fontName="Microsoft YaHei UI" fontHeight="8"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_liEyEulTEe-3374rGVaJ7g" x="5" y="384"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_liEyEulTEe-3374rGVaJ7g" x="8" y="364"/>
                 </children>
                 <styles xmi:type="notation:SortingStyle" xmi:id="_bjUp9elTEe-3374rGVaJ7g"/>
                 <styles xmi:type="notation:FilteringStyle" xmi:id="_bjUp9ulTEe-3374rGVaJ7g"/>
